@@ -53,7 +53,19 @@
 
 ## 📌 Problem Statement
 
-Traditional rental processes lack transparency, trust, and security. Users often face unreliable agreements, unverifiable reviews, and time-consuming manual processes.
+Traditional rental processes are plagued by a lack of transparency, trust, and security. Users frequently encounter:
+
+Unreliable or forged rental agreements
+
+Unverifiable and biased user reviews
+
+Time-consuming manual processes for listing and renting
+
+Middlemen or brokers who charge recurring commissions on every rental
+
+Lack of a trusted platform to validate agreements and user experiences
+
+These challenges result in frustration, financial loss, and an overall lack of trust in the rental ecosystem—especially for students and outstation tenants.
 
 ---
 
