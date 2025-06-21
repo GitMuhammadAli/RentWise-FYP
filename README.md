@@ -103,6 +103,7 @@ The project includes detailed walkthrough videos demonstrating:
 
 ## 📽️ Sign In - Register
 https://github.com/user-attachments/assets/ae323c29-6c47-45c9-8d47-ac10c2a212b3
+
 https://github.com/user-attachments/assets/bc63bd56-0443-4fdc-988e-d50373cb078d
 ## 📽️ Google Login - Password Reset
 https://github.com/user-attachments/assets/5d119796-1e03-4b79-8b7c-6c7ab0a41855
